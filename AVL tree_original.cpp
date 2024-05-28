@@ -17,6 +17,8 @@ public:
     }
 };
 //GPT can u see me?
+//Let me know if u can.
+
 /* AVL tree */
 template <class T>
 class AVLtree {
