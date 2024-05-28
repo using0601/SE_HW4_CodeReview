@@ -15,7 +15,7 @@ public:
         delete left;
         delete right;
     }
-};bugs here
+};
 //GPT can u see me?
 //Let me know if u can.
 
