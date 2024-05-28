@@ -28,7 +28,7 @@ public:bugs here
     bool insert(T key);
     void deleteKey(const T key);
     void printBalance();
-bugs here
+
 private:
     AVLnode<T> *root;
  
