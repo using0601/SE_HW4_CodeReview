@@ -37,7 +37,7 @@ private:
     AVLnode<T>* rotateLeftThenRight ( AVLnode<T> *a );
     AVLnode<T>* rotateRightThenLeft ( AVLnode<T> *n );
     void rebalance                  ( AVLnode<T> *n );
-    void height                     ( AVLnode<T> *n );
+    void height                     ( AVLnode<T> *n );bugs here
     void setBalance                 ( AVLnode<T> *n );
     void printBalance               ( AVLnode<T> *n );
     void clearNode                  ( AVLnode<T> *n );
