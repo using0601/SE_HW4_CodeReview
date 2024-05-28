@@ -16,7 +16,7 @@ public:
         delete right;
     }
 };
- 
+//GPT can u see me?
 /* AVL tree */
 template <class T>
 class AVLtree {
