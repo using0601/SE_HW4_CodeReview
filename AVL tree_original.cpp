@@ -22,7 +22,7 @@ public:
 /* AVL tree */
 template <class T>
 class AVLtree {
-public:
+public:bugs here
     AVLtree(void);
     ~AVLtree(void);
     bool insert(T key);
